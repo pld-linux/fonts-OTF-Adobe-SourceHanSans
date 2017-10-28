@@ -2,12 +2,12 @@
 # - split into separate cn/jp/kr/otc/tw subpackages
 Summary:	Adobe Source HanSans
 Name:		fonts-OTF-Adobe-SourceHanSans
-Version:	1.002
+Version:	1.004
 Release:	1
 License:	OFL v1.1
 Group:		Fonts
-Source0:	https://github.com/adobe-fonts/source-han-sans/archive/1.002R.tar.gz
-# Source0-md5:	6b7f44a2e15f585a3ff5eff7754edb32
+Source0:	https://github.com/adobe-fonts/source-han-sans/archive/%{version}R.tar.gz
+# Source0-md5:	93168b6e15cacd31b3d60fc7bf3e60f5
 Source1:	44-source-han-sans-cn.conf
 Source2:	44-source-han-sans-jp.conf
 Source3:	44-source-han-sans-kr.conf
